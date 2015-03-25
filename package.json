@@ -1,7 +1,7 @@
 {
   "name": "set-object",
-  "description": "Create nested objects and any intermediaries using `a.b.c` paths.",
-  "version": "1.0.0",
+  "description": "DEPRECATED - use set-value instead.",
+  "version": "1.0.1",
   "homepage": "https://github.com/jonschlinkert/set-object",
   "author": {
     "name": "Jon Schlinkert",
@@ -14,12 +14,10 @@
   "bugs": {
     "url": "https://github.com/jonschlinkert/set-object/issues"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/jonschlinkert/set-object/blob/master/LICENSE"
-    }
-  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/jonschlinkert/set-object/blob/master/LICENSE"
+  },
   "files": [
     "index.js"
   ],
